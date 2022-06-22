@@ -2,9 +2,21 @@
 
 Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 | NodeJS :green_book:
 
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 - 📫 How to reach me: 
-  - 👨🏻‍💻 https://www.linkedin.com/in/inod-wagachchi
+  - 👨🏻‍💻 https://www.linkedin.com/in/inod-wagachchi 
   - 📩 inodwagachchi@gmail.com
+
+<div>
+  <a href="https://www.w3schools.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40"/>
+</a>
+</div>
+          
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -17,9 +29,6 @@ Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 
           
 </div>
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <!--
 **inodw1/inodw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
