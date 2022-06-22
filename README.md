@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Inod
-Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 | NodeJS :nodejs:
+Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 | NodeJS :green_book:
 
 - 📫 How to reach me: 👨🏻‍💻 https://www.linkedin.com/in/inod-wagachchi 📩 inodwagachchi@gmail.com
 
