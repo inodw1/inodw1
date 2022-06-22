@@ -6,19 +6,6 @@ Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
-- 📫 How to reach me-
-<div>
-  <a href="https://www.linkedin.com/in/inod-wagachchi">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40"/>
-</a>
-</div>
-
-📩 inodwagachchi@gmail.com
-
-
-          
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -28,6 +15,14 @@ Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
           
+</div>
+
+
+<div>
+  <a href="https://www.linkedin.com/in/inod-wagachchi">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40"/>
+</a>
+ <span> 📩 inodwagachchi@gmail.com </span>
 </div>
 
 
