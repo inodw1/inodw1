@@ -17,13 +17,12 @@ Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 
           
 </div>
 
-## Find me on
+# Find me on (inodwagachchi@gmail.com)
 <div>
   <a href="https://www.linkedin.com/in/inod-wagachchi">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40"/>
 </a>
 </div>
-📩 inodwagachchi@gmail.com
 
 
 <!--
