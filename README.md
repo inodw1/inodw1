@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Inod
 Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 | NodeJS :green_book:
 
-- 📫 How to reach me: 👨🏻‍💻 https://www.linkedin.com/in/inod-wagachchi 📩 inodwagachchi@gmail.com
+- 📫 How to reach me: 👨🏻‍💻 https://www.linkedin.com/in/inod-wagachchi    📩 inodwagachchi@gmail.com
 
 <!--
 **inodw1/inodw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
