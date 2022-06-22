@@ -19,9 +19,9 @@ Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 
 <div>
    <a href="https://www.linkedin.com/in/inod-wagachchi">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40"/>
-   </a>&nbsp;
+   </a>
    <a href="https://github.com/inod-noetic">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" />    
+      <img     src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" width="40" height="40" />    
    </a>          
 </div>
 <!--
