@@ -1,4 +1,7 @@
 ### Hi 👋 I'm Inod
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 | NodeJS :green_book:
 
 - 📫 How to reach me: 
