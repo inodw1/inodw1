@@ -1,4 +1,4 @@
-### Hi 👋 I'm Inod Wagachchi
+### Hi 👋 I'm Inod
 
 Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 | NodeJS :green_book:
 
