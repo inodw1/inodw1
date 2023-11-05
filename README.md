@@ -34,16 +34,16 @@ Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 
 |:-------------------:|:--------------:|
 | 2022 - 2023 | [inod-dbf](https://github.com/inod-dbf) |
 | 2019 - 2022 | [inod-noetic](https://github.com/inod-noetic) |
+
+<!--
+**inodw1/inodw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 | 2023 | [inod-dbf](https://github.com/inod-dbf?tab=overview&from=2023-11-01&to=2023-11-05) |
 | 2022 | [inod-dbf](https://github.com/inod-dbf?tab=overview&from=2022-12-01&to=2022-12-31) |
 | 2022 | [inod-noetic](https://github.com/inod-noetic?tab=overview&from=2022-12-01&to=2022-12-31) |
 | 2021 | [inod-noetic](https://github.com/inod-noetic?tab=overview&from=2021-12-01&to=2021-12-31) |
 | 2020 | [inod-noetic](https://github.com/inod-noetic?tab=overview&from=2020-12-01&to=2020-12-31) |
 | 2019 | [inod-noetic](https://github.com/inod-noetic?tab=overview&from=2019-12-01&to=2019-12-31) |
-
-
-<!--
-**inodw1/inodw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
