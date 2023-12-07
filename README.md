@@ -16,6 +16,10 @@ Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 
 </div>
 
 ##
+[![Portfolio](https://img.shields.io/badge/Portfolio-Inod's%20Work-blue?style=for-the-badge&logo=netlify)](https://inod-wagachchi.netlify.app)
+
+
+##
 <div>
    <a href="https://www.linkedin.com/in/inod-wagachchi">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40"/>
