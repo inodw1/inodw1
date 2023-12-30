@@ -24,8 +24,8 @@ Full Stack Developer 🧑🏻‍💻 | React - Redux ⚛️ | React Native 📱 
    <a href="https://www.linkedin.com/in/inod-wagachchi">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40"/>
    </a>
-   <a href="https://github.com/inod-noetic">
-      <img     src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" width="45" height="45" />    
+   <a href="https://github.com/inod-dbf">
+      <img src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" width="45" height="45" />    
    </a>
    <a href="https://stackoverflow.com/users/8152629/inod-wagachchi">
       <img src="https://camo.githubusercontent.com/d1861fa0ea97bbd15bbb0a18f139a28a77ce49ba96aadd433d632025e22db862/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f737461636b6f766572666c6f772e706e67"  width="40" height="40"/>
